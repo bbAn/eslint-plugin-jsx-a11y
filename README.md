@@ -139,7 +139,7 @@ meta, html, script 태그와 같이 ARIA 역할, 상태 및 속성을 지원하�
 
 ## click-events-have-key-events
 클릭 가능한 요소에는 최소한 하나의 키보드 이벤트가 있어야함 (onKeyUp, onKeyDown, onKeyPress)   
-<button> 같은 대화형 요소나 aria-hidden="true"등 숨겨진 요소에는 적용 안됨   
+button 태그 같은 대화형 요소나 aria-hidden="true"등 숨겨진 요소에는 적용 안됨   
 
 ```
 옵션 없음 
