@@ -1,5 +1,5 @@
 # eslint-plugin-jsx-a11y
-[eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y) 적용을 위해 규칙을 한국어로 정리
+[eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y) 규칙 한국어로 정리
 
 ## alt-text
 사용자에게 의미있는 정보를 전달하는 대체 텍스트가 있어야함
